@@ -1,0 +1,11 @@
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\bin\Debug\net5.0\Web.Core.deps.json
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\bin\Debug\net5.0\Web.Core.dll
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\bin\Debug\net5.0\ref\Web.Core.dll
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\bin\Debug\net5.0\Web.Core.pdb
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\Web.Core.AssemblyInfoInputs.cache
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\Web.Core.AssemblyInfo.cs
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\Web.Core.csproj.CoreCompileInputs.cache
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\Web.Core.dll
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\ref\Web.Core.dll
+D:\DaiHoc\nam5\ky1\cn_web_nc\baitap\WebApp\Web.Core\obj\Debug\net5.0\Web.Core.pdb

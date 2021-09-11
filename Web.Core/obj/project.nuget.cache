@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jj9MUWDg8Bp0hsr1o6DO0HWR5CYw1sDpyjM0bue/zBirMjN9Jv2wQnKmFkbIA1HOe/OXbvQYPaQNsJcoWWL08A==",
+  "success": true,
+  "projectFilePath": "D:\\DaiHoc\\nam5\\ky1\\cn_web_nc\\baitap\\WebApp\\Web.Core\\Web.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\mongodb.driver\\2.13.1\\mongodb.driver.2.13.1.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\mongodb.driver.core\\2.13.1\\mongodb.driver.core.2.13.1.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\DucAnhTran.VPN-CLIENT01\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
